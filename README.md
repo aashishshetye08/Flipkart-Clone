@@ -1,5 +1,5 @@
 # Flipkart-Clone
-###### A MERN Stack Project
+###### A MERN Stack Project - https://flipkart-clone-by-me.netlify.app/
 
 ![1](https://github.com/aashishshetye08/Flipkart-Clone/assets/83405310/3b9f37fa-73af-4c85-b498-1178f42c0609)
 
